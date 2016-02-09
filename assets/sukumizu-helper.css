@@ -1,0 +1,16 @@
+#sukumizu-helper .ss_lv{
+  font-size: 125%;
+}
+
+#sukumizu-helper .ss_name{
+  font-size: 150%;
+}
+
+#sukumizu-helper .ss_cond{
+  font-size: 125%;
+}
+
+#sukumizu-helper .ss_annotated{
+  font-size: 75%;
+  color: rgba(0, 0, 0, 0.5);
+}
